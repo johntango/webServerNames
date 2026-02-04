@@ -1,4 +1,4 @@
-# Web Server Names
+# Fabulous Web Server Names
 
 A minimal Node.js + Express server that serves a single-page interface for collecting visitor name, email, and password entries. Submissions are sent via `fetch` to the server and stored in-memory; the page can request the current roster on demand.
 
